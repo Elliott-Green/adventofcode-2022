@@ -6,7 +6,8 @@ You don't need a computer science background to participate - just a little prog
 
 https://adventofcode.com/2022
 
-| Day | Link                  | Description                                                                 |
-|-----|-----------------------|-----------------------------------------------------------------------------|
-| 1   | [here](./1/index.js)  | Read gibberish file and calculate who has the most kcals                    |
-| 2   | [here](./2/index.js)  | Read gibberish file and play rock paper scissors with different strategies  |
+| Day | Link                             | Description                                                                                       |
+|-----|----------------------------------|---------------------------------------------------------------------------------------------------|
+| 1   | [here](./1/index.js)             | Read gibberish file and calculate who has the most kcals                                          |
+| 2   | [here](./2/index.js)             | Read gibberish file and play rock paper scissors with different strategies                        |
+| 3   | [3a](.3/3a.js) and [3b](3/3b.js) | Read gibberish file and count occurance of characters from different positions                    |
